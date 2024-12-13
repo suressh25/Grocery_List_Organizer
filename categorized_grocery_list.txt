@@ -1,0 +1,69 @@
+After categorizing and sorting the grocery items, I present to you the following list:
+
+**Produce:**
+� Apples
+� Bananas
+� Bell Peppers
+� Broccoli
+� Carrots
+� Lettuce
+� Onions
+� Potatoes
+� Spinach
+� Strawberries
+� Tomatoes
+
+**Dairy:**
+� Cheese
+� Eggs
+� Milk
+� Yogurt
+
+**Meat/Seafood:**
+� Chicken Breast
+� Ground Beef
+� Salmon
+� Shrimp
+� Sausages
+
+**Bakery:**
+� Bread
+� Flour
+� Pasta
+� Rice
+
+**Frozen:**
+� Ice Cream
+� (None)
+
+**Canned:**
+� Orange Juice
+� (No canned items found in the list)
+
+**Beverages:**
+� Coffee
+� Tea
+� Soda
+
+**Snacks:**
+� Almonds
+� Granola Bars
+� Chocolate
+� Chips
+� Peanut Butter
+� Jam
+
+**Condiments:**
+� Olive Oil
+� Honey
+� Garlic
+� Dish Soap
+� Laundry Detergent
+� Shampoo
+� Toothpaste
+� Sugar
+� Cereal
+
+Note: Some items, like coffee and tea, can also be found in the Beverage category. However, I have categorized them under Beverages as they are often sold separately.
+
+Let me know if you'd like me to make any changes!
